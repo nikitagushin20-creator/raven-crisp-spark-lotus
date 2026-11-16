@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ООО «Промсервис и обслуживание»",
+      "hasCanvas": false,
+      "bodyTextLen": 3624,
+      "bodyTextHash": "ec46fab3f3ee943ecf9b9d41289d7cc0700368f84ce878b67fa47453f6d38784",
+      "bodyTextPrefix": "Поставка и обслуживание промышленного оборудования Пн–Пт, 9:00–1",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Поставка промышленного оборудования — Промсервис",
+      "hasCanvas": false,
+      "bodyTextLen": 3759,
+      "bodyTextHash": "a21d82bd42e4be7fb74d18267d61f775a2b03ed8f7a7537d735d9350f4acb194",
+      "bodyTextPrefix": "ПС ПРОМСЕРВИС и обслуживание Заказать звонок Разделы Каталог Сев",
+      "horizontalOverflow": true,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
